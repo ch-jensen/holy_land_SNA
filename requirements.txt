@@ -1,0 +1,4 @@
+adjustText
+forceatlas2
+networkx
+text-fabric[all]
